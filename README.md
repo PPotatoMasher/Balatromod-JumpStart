@@ -1,7 +1,7 @@
 # PPotatoMasher Balatro Mods
 Mods I made for the awesome game [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
 
-## [JumpStart]
+## [Jump Start](/JumpStart.lua)
 Buy your most desired jokers
 - Free reroll for the first two round
 - All jokers cost $1
@@ -11,7 +11,7 @@ Buy your most desired jokers
 
 Based on FreeReroll Mod by Tianjing (https://discord.com/channels/1116389027176787968/1215870212847698020)
 
-## [VoucherStartPack]
+## [Voucher Start Pack](/VoucherStartPach.lua)
 Add some "essential" jokers to your run
 - Add Overstock (+1 card slot in the shop)
 - Add Blank (Does Nothing ?)
