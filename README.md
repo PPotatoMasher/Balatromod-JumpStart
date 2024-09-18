@@ -21,12 +21,7 @@ Add some "essential" jokers to your run
 Based on Permanent Overstock Mod by Encarvlucas (https://github.com/encarvlucas/EncarvlucasBalatroMods/)
 
 ## Installation
-- This mod requires [ModLoader](https://github.com/Steamopollys/Steamodded/).
-- Just the download the `.lua` files of the mods you want to install and place them in your `C:\Users\<USER>\AppData\Roaming\Balatro\Mods` or `%appdata%\Balatro\Mods` directory.
-
-
-## Known Issues
-- None so far
+- These mod requires [Steamodded](https://github.com/Steamopollys/Steamodded/).
 
 ## Contributing
 Pull requests are welcome.
