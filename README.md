@@ -1,5 +1,5 @@
 # PPotatoMasher Balatro Mods
-Mods I made for the awesome game [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
+Mods I made [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
 
 ## [Jump Start](/JumpStart.lua)
 Buy your most desired jokers
