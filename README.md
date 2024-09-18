@@ -1,11 +1,13 @@
 # PPotatoMasher Balatro Mods
-Mods I made [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
+Mods I made for [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
+Tired of restart game in loop for having the good joker I want to play with, I made some Mods
 
 ## [Jump Start](/JumpStart.lua)
 Buy your most desired jokers
 - Free reroll for the first two round
 - All jokers cost $1
-- After round 2, prices are normal again, and no more free reroll
+- No more rarity, legendary joker will show
+- After round 2, prices and rarity are normal again, and no more free reroll
 - Side effect : Temperance will be based on the price payed
 - Issue ? : Joker (+4 Mult) spawn too frequently (don't understand why....)
 
