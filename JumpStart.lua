@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Free Reroll and priceless joker for rounds 1 and 2
+--- MOD_NAME: Jump Start (Free Reroll & $1 Jokers)
 --- MOD_ID: JumpStart
 --- MOD_AUTHOR: [PotatoMasher]
 --- MOD_DESCRIPTION: Rerolls are free for stage 1 and 2, all joker cost $1. Based on FreeReroll mod by Tianjing

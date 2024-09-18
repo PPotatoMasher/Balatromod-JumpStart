@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Add essential vouchers to Every Run
+--- MOD_NAME: Voucher pack (3 essentials jockers enabled)
 --- MOD_ID: VoucherStartPack
 --- MOD_AUTHOR: [PotatoMasher]
 --- MOD_DESCRIPTION: Adds Overstock, Blank and Director's Cut Vouchers to all runs (also increase cost of advanded vouchers) based on PermanentOverstock mod by Encarvlucas
