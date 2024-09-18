@@ -11,7 +11,7 @@ Buy your most desired jokers
 
 Based on FreeReroll Mod by Tianjing (https://discord.com/channels/1116389027176787968/1215870212847698020)
 
-## [Voucher Start Pack](/VoucherStartPach.lua)
+## [Voucher Start Pack](/VoucherStartPack.lua)
 Add some "essential" jokers to your run
 - Add Overstock (+1 card slot in the shop)
 - Add Blank (Does Nothing ?)
