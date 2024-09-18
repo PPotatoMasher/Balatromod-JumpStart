@@ -1,5 +1,5 @@
 # PPotatoMasher Balatro Mods
-Mods I made for the awesome game [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
+Mods I made [Balatro](https://store.steampowered.com/app/2379780/Balatro/).
 
 ## [Jump Start](/JumpStart.lua)
 Buy your most desired jokers
@@ -21,7 +21,7 @@ Add some "essential" jokers to your run
 Based on Permanent Overstock Mod by Encarvlucas (https://github.com/encarvlucas/EncarvlucasBalatroMods/)
 
 ## Installation
-- These mod requires [Steamodded]([https://github.com/Steamopollys/Steamodded/).
+- These mod requires [Steamodded]([https://github.com/Steamopollys/Steamodded/)
 - Drop the lua files in %appdata%/balatro/Mods and run the game !
 
 ## License
